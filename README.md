@@ -1,3 +1,1 @@
-# deleteDLQ
-
-# This project delete dead letter queues using a extracture from body.
+# This project filter all dead letter queues with specific body message and delete it.
